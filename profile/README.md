@@ -97,9 +97,6 @@ Abra o projeto em sua IDE preferida e execute-o. Certifique-se de ter as depend�
 ```
 - Após iniciar o servidor, acesse http://localhost:3000 em seu navegador para usar a aplicação web.
 
-# Como investir
-A AgroSync é uma oportunidade de investimento promissora no mercado agrícola brasileiro, com um potencial significativo de monetização e um mercado em expansão. Para mais informações sobre como investir na AgroSync, entre em contato conosco através do nosso site.
-
 # Integrantes
 - RM94311	Marcos Henrique Bilobram dos Santos
 - RM96320	Nathália de Queiroz Maia
