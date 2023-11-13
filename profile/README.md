@@ -13,6 +13,14 @@ A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados 
 Demonstrações das entregas Projeto Final após o refatoramento solicitado pelo FIAP e a conclução do projeto.
 *Clique no Video.*
 
+# Video Principal - Simulação completa
+
+<br> <a href="https://youtu.be/6bDD_93EuuA"><img alt="image" height="200" width="400" src="https://github.com/natmaia/arquivosFotosReadme/blob/main/Captura%20de%20tela%202023-11-13%20103416.png"></a> <br> <br> *Clique no video e será direcionado ao Youtube*
+
+# Video da IA - Simulação chat e leitura de solo
+
+<br> <a href="https://youtu.be/i9fo51yoB3I"><img alt="image" height="200" width="410" src="https://github.com/natmaia/arquivosFotosReadme/blob/main/Captura%20de%20tela%202023-11-13%20103653.png"></a> <br> <br> *Clique no video e será direcionado ao Youtube*
+
 | Plataforma da demonstração | O que será demonstrado | Link de acesso
 | -------------------------- | --------------- | --------------------------
 |  <br> <img align="center" alt="weplant-react" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> Aplicação Mobile | Nessa demonstração veremos a utilização <br> completa do App final, com foco na Analise de solo. |  <br> <a href="https://youtu.be/gAff578VQNM"><img alt="image" height="200" width="310" src="https://github.com/AgroSync-FIAP/Hybrid-Mobile-App-Development/blob/main/Captura%20de%20tela%202023-09-13%20145713.png"></a> <br> <br> *Clique no video e será direcionado ao Youtube*
